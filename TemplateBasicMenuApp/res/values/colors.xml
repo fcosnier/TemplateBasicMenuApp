@@ -1,0 +1,48 @@
+<resources>
+
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="blackmenu">#000</color>
+    <color name="main_color">#7ab8c5</color>
+ 
+    <color name="Button_Type_0_Dark">#bec4cb</color>
+    <color name="Button_Type_0_Light">#e4f5fe</color>
+    <color name="Button_Type_0_Text">#252f3c</color>
+    <color name="Button_Type_1_Dark">#e4a458</color>
+    <color name="Button_Type_1_Light">#fcf4bd</color>
+    <color name="Button_Type_1_Text">#ffffff</color>
+    <color name="Button_Type_2_Dark">#505258</color>
+    <color name="Button_Type_2_Light">#677c91</color>
+    <color name="Button_Type_2_Text">#e3f3fa</color>
+    <color name="Button_Type_3_Dark">#505258</color>
+    <color name="Button_Type_3_Light">#677c91</color>
+    <color name="Button_Type_3_Text">#e3f3fa</color>
+    <color name="Button_Type_4_Dark">#6099e2</color>
+    <color name="Button_Type_4_Light">#9ed2fe</color>
+    <color name="Button_Type_4_Text">#ffffff</color>
+    <color name="Button_Type_5_Dark">#80b8a4</color>
+    <color name="Button_Type_5_Light">#d1ffff</color>
+    <color name="Button_Type_5_Text">#ffffff</color>
+    <color name="Button_Type_6_Dark">#eb4959</color>
+    <color name="Button_Type_6_Light">#feb1b8</color>
+    <color name="Button_Type_6_Text">#ffffff</color>
+    <color name="Focused_Stroke">#fc4564</color>
+    <color name="Normal_Stroke">#19222d</color>
+    <color name="Pressed_Stroke">#fef1c8</color>
+    <color name="Button_Backround">#48555b</color>
+    <color name="Display_Backround">#95beb2</color>
+    <color name="Button_Type_7_Dark">#17832c</color>
+    <color name="Button_Type_7_Light">#18e640</color>
+    <color name="Button_Type_7_Text">#010101</color>
+    <color name="Button_Type_8_Dark">#8b290c</color>
+    <color name="Button_Type_8_Light">#fc0d10</color>
+    <color name="Button_Type_8_Text">#010101</color>
+    <color name="main_color">#7ab8c5</color>
+	<color name="second_color">#FFFFFF</color>
+	<color name="black">#FFFFFF</color>
+	<color name="color1">#666666</color>
+	<color name="color2">#000000</color>
+	
+	<color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+</resources>

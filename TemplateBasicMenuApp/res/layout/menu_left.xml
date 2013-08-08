@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md__defaultBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        
+        <TextView
+            android:id="@+id/HomeMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_launcher"
+            android:text="Home"
+            style="@style/MenuDrawer.Widget.Title" />
+        
+		<TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My Profil"
+            style="@style/MenuDrawer.Widget.Category" />
+		
+        <TextView
+            android:id="@+id/UsernameMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_user"
+            android:text="Me"
+            style="@style/MenuDrawer.Widget.Title" />
+        
+        <TextView
+            android:id="@+id/AddFeed"
+            style="@style/MenuDrawer.Widget.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_content_new_event"
+            android:text="Add Training" />
+        
+        <TextView
+            android:id="@+id/ListFeeds"
+            style="@style/MenuDrawer.Widget.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_content_event"
+            android:text="All Activities" />
+        
+        <TextView
+            android:id="@+id/ListFeeds"
+            style="@style/MenuDrawer.Widget.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_tendance"
+            android:text="Tendance" />
+        
+        <TextView
+            android:id="@+id/ListFeeds"
+            style="@style/MenuDrawer.Widget.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_social_group"
+            android:text="Team" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My App"
+            style="@style/MenuDrawer.Widget.Category" />
+
+        <TextView
+            android:id="@+id/NotificationMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_alerts_and_states_warning"
+            android:text="Notifications"
+            style="@style/MenuDrawer.Widget.Title" />
+
+        <TextView
+            android:id="@+id/SettingsMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_settings"
+            android:text="Settings"
+            style="@style/MenuDrawer.Widget.Title" />
+        
+        <TextView
+            android:id="@+id/HelpMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_action_help"
+            android:text="Help"
+            style="@style/MenuDrawer.Widget.Title" />
+
+    </LinearLayout>
+</ScrollView>
